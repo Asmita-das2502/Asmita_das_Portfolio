@@ -12,7 +12,7 @@
   --fw-bold: 900;
   --clr-light: #fff;
   --clr-dark: #303030;
-  --clr-accent: #16e0bd;
+  --clr-accent: #7da2dc;
 
   --fs-h1: 3rem;
   --fs-h2: 2.25rem;
@@ -236,6 +236,7 @@ header {
 }
 .intro__img {
   box-shadow: var(--bs);
+  border-radius: 9px;
 }
 .section__subtitle--intro {
   display: inline-block;
